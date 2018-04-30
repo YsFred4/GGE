@@ -12,3 +12,5 @@ Graphical Game Engine (GGE) is a C++ game engine being developed to help student
  There are no builds yet.
  
  
+# License
+GGE is an open source project being distributed using the MIT License.
